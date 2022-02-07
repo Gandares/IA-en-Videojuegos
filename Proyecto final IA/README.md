@@ -16,7 +16,7 @@ Trees "spawn" every random time range through a predefined zone.
 
  - The guard waits in the camp alert in case the monster approaches. When he appears, he approaches to fight and when he repels him, he returns to rest and wait for him again.
 
-![Alt Text](../Resources/Simulation.gif)
+![Alt Text](../Resources/simulation.gif)
 
 <br/>
 
