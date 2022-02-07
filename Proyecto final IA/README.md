@@ -2,6 +2,8 @@
 
 **GOAP (Goal-Oriented Action Planning)** refers to a simplified planning architecture designed specifically for real-time control of autonomous behavior of characters in games. It was originally implemented for the videogame *F.E.A.R.* and there are others that use it like *Ghostbusters*, *Just Cause 2*, *Fallout 3*, *Silent Hill Home Coming* among others.
 
+![Image](../Resources/GOAP.png)
+
 # Proyecto Final
 
 For the final project of the *AI in videogames* course, **GOAP** was used for 3 artificial intelligences. What was implemented by the student was:
@@ -13,6 +15,8 @@ Trees "spawn" every random time range through a predefined zone.
  - The monster goes to the town to scare the lumberjacks and when he arrives he fights with a guard, at the end of the fight he goes away to rest and wait for his health to reach 100 to try again.
 
  - The guard waits in the camp alert in case the monster approaches. When he appears, he approaches to fight and when he repels him, he returns to rest and wait for him again.
+
+![Alt Text](../Resources/Simulation.gif)
 
 <br/>
 
