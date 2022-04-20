@@ -4,7 +4,7 @@
 
 ![Image](../Resources/GOAP.png)
 
-# Proyecto Final
+# Final Project
 
 For the final project of the *AI in videogames* course, **GOAP** was used for 3 artificial intelligences. What was implemented by the student was:
 
